@@ -77,7 +77,8 @@ This is a **Next.js-based payment application** with a **card freeze functionali
 ### 1️⃣ Clone the Repository
 ```sh
 git clone https://github.com/latha0001/payment-interface.git
-cd payment-app
+cd payment-interface
+
 ```
 
 ### 2️⃣ Install Dependencies
